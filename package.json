@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "get-assemble-partials": "0.0.3"
   },
   "devDependencies": {
     "eslint-config-makotot": "0.0.1",
@@ -15,7 +16,7 @@
     "time-grunt": "^1.2.1"
   },
   "scripts": {
-    "test": ""
+    "test": "grunt test"
   },
   "repository": {
     "type": "git",
