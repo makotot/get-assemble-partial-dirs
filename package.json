@@ -1,7 +1,7 @@
 {
   "name": "get-assemble-partial-dirs",
   "version": "0.0.1",
-  "description": "",
+  "description": "Get assemble partial directories",
   "main": "index.js",
   "dependencies": {
     "get-assemble-partials": "0.0.3"
@@ -24,6 +24,9 @@
   },
   "author": "makotot",
   "license": "MIT",
+  "keywords": [
+    "assemble"
+  ],
   "bugs": {
     "url": "https://github.com/makotot/get-assemble-partial-dirs/issues"
   },
